@@ -27,7 +27,7 @@ See features.txt from original data files
   * 4=sitting
   * 5=standing
   * 6=laying
-*Means of measurements that can be mapped from original mean and standard deviation measurements to the following variable names using renaming techniques mapped in the Transformations section step 5. These are the means for each respondent and respondent's activity for all original mean and standard deviation variable measurements.
+**Means of measurements that can be mapped from original mean and standard deviation measurements to the following variable names using renaming techniques mapped in the Transformations section step 5. These are the means for each respondent and respondent's activity for all original mean and standard deviation variable measurements:**
 * timebodyaccelerometermeanx
 * timebodyaccelerometermeany
 * timebodyaccelerometermeanz
