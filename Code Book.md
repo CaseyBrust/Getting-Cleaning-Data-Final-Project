@@ -28,69 +28,69 @@ See features.txt from original data files
   * 5=standing
   * 6=laying
 *Means of measurements that can be mapped from original mean and standard deviation measurements to the following variable names using renaming techniques mapped in the Transformations section step 5. These are the means for each respondent and respondent's activity for all original mean and standard deviation variable measurements.
-*timebodyaccelerometermeanx
-*timebodyaccelerometermeany
-*timebodyaccelerometermeanz
-*timegravityaccelerometermeanx
-*timegravityaccelerometermeany
-*timegravityaccelerometermeanz
-*timebodyaccelerometerjerkmeanx
-*timebodyaccelerometerjerkmeany
-*timebodyaccelerometerjerkmeanz
-*timebodygyroscopemeanx
-*timebodygyroscopemeany
-*timebodygyroscopemeanz
-*timebodygyroscopejerkmeanx
-*timebodygyroscopejerkmeany
-*timebodygyroscopejerkmeanz
-*timebodyaccelerometermagnitudemean
-*timegravityaccelerometermagnitudemean
-*timebodyaccelerometerjerkmagnitudemean
-*timebodygyroscopemagnitudemean
-*timebodygyroscopejerkmagnitudemean
-*frequencybodyaccelerometermeanx
-*frequencybodyaccelerometermeany
-*frequencybodyaccelerometermeanz
-*frequencybodyaccelerometerjerkmeanx
-*frequencybodyaccelerometerjerkmeany
-*frequencybodyaccelerometerjerkmeanz
-*frequencybodygyroscopemeanx
-*frequencybodygyroscopemeany
-*frequencybodygyroscopemeanz
-*frequencybodyaccelerometermagnitudemean
-*frequencybodybodyaccelerometerjerkmagnitudemean
-*frequencybodybodygyroscopemagnitudemean
-*frequencybodybodygyroscopejerkmagnitudemean
-*timebodyaccelerometerstdx
-*timebodyaccelerometerstdy
-*timebodyaccelerometerstdz
-*timegravityaccelerometerstdx
-*timegravityaccelerometerstdy
-*timegravityaccelerometerstdz
-*timebodyaccelerometerjerkstdx
-*timebodyaccelerometerjerkstdy
-*timebodyaccelerometerjerkstdz
-*timebodygyroscopestdx
-*timebodygyroscopestdy
-*timebodygyroscopestdz
-*timebodygyroscopejerkstdx
-*timebodygyroscopejerkstdy
-*timebodygyroscopejerkstdz
-*timebodyaccelerometermagnitudestd
-*timegravityaccelerometermagnitudestd
-*timebodyaccelerometerjerkmagnitudestd
-*timebodygyroscopemagnitudestd
-*timebodygyroscopejerkmagnitudestd
-*frequencybodyaccelerometerstdx
-*frequencybodyaccelerometerstdy
-*frequencybodyaccelerometerstdz
-*frequencybodyaccelerometerjerkstdx
-*frequencybodyaccelerometerjerkstdy
-*frequencybodyaccelerometerjerkstdz
-*frequencybodygyroscopestdx
-*frequencybodygyroscopestdy
-*frequencybodygyroscopestdz
-*frequencybodyaccelerometermagnitudestd
-*frequencybodybodyaccelerometerjerkmagnitudestd
-*frequencybodybodygyroscopemagnitudestd
-*frequencybodybodygyroscopejerkmagnitudestd
+* timebodyaccelerometermeanx
+* timebodyaccelerometermeany
+* timebodyaccelerometermeanz
+* timegravityaccelerometermeanx
+* timegravityaccelerometermeany
+* timegravityaccelerometermeanz
+* timebodyaccelerometerjerkmeanx
+* timebodyaccelerometerjerkmeany
+* timebodyaccelerometerjerkmeanz
+* timebodygyroscopemeanx
+* timebodygyroscopemeany
+* timebodygyroscopemeanz
+* timebodygyroscopejerkmeanx
+* timebodygyroscopejerkmeany
+* timebodygyroscopejerkmeanz
+* timebodyaccelerometermagnitudemean
+* timegravityaccelerometermagnitudemean
+* timebodyaccelerometerjerkmagnitudemean
+* timebodygyroscopemagnitudemean
+* timebodygyroscopejerkmagnitudemean
+* frequencybodyaccelerometermeanx
+* frequencybodyaccelerometermeany
+* frequencybodyaccelerometermeanz
+* frequencybodyaccelerometerjerkmeanx
+* frequencybodyaccelerometerjerkmeany
+* frequencybodyaccelerometerjerkmeanz
+* frequencybodygyroscopemeanx
+* frequencybodygyroscopemeany
+* frequencybodygyroscopemeanz
+* frequencybodyaccelerometermagnitudemean
+* frequencybodybodyaccelerometerjerkmagnitudemean
+* frequencybodybodygyroscopemagnitudemean
+* frequencybodybodygyroscopejerkmagnitudemean
+* timebodyaccelerometerstdx
+* timebodyaccelerometerstdy
+* timebodyaccelerometerstdz
+* timegravityaccelerometerstdx
+* timegravityaccelerometerstdy
+* timegravityaccelerometerstdz
+* timebodyaccelerometerjerkstdx
+* timebodyaccelerometerjerkstdy
+* timebodyaccelerometerjerkstdz
+* timebodygyroscopestdx
+* timebodygyroscopestdy
+* timebodygyroscopestdz
+* timebodygyroscopejerkstdx
+* timebodygyroscopejerkstdy
+* timebodygyroscopejerkstdz
+* timebodyaccelerometermagnitudestd
+* timegravityaccelerometermagnitudestd
+* timebodyaccelerometerjerkmagnitudestd
+* timebodygyroscopemagnitudestd
+* timebodygyroscopejerkmagnitudestd
+* frequencybodyaccelerometerstdx
+* frequencybodyaccelerometerstdy
+* frequencybodyaccelerometerstdz
+* frequencybodyaccelerometerjerkstdx
+* frequencybodyaccelerometerjerkstdy
+* frequencybodyaccelerometerjerkstdz
+* frequencybodygyroscopestdx
+* frequencybodygyroscopestdy
+* frequencybodygyroscopestdz
+* frequencybodyaccelerometermagnitudestd
+* frequencybodybodyaccelerometerjerkmagnitudestd
+* frequencybodybodygyroscopemagnitudestd
+* frequencybodybodygyroscopejerkmagnitudestd
