@@ -21,12 +21,12 @@ See features.txt from original data files
 ##Variables
 * id=subject id (vector of 180 ids, 1 row for each respondent)
 * activity=factor where:
-  *1=walking
-  *2=walkingupstairs
-  *3=walkingdownstairs
-  *4=sitting
-  *5=standing
-  *6=laying
+  * 1=walking
+  * 2=walkingupstairs
+  * 3=walkingdownstairs
+  * 4=sitting
+  * 5=standing
+  * 6=laying
 *Means of measurements that can be mapped from original mean and standard deviation measurements to the following variable names using renaming techniques mapped in the Transformations section step 5. These are the means for each respondent and respondent's activity for all original mean and standard deviation variable measurements.
 *timebodyaccelerometermeanx
 *timebodyaccelerometermeany
