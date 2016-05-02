@@ -17,6 +17,7 @@ See features.txt from original data files
 6. Formatted activity as a factor
 7. This completed the first data set (my_data)
 8. Melted and recasted data to get means for each measurement by ID and activity and saved data set (tidy)
+
 ##Variables
 * id=subject id (vector of 180 ids, 1 row for each respondent)
 * activity=factor where:
